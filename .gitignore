@@ -1,0 +1,21 @@
+# Environments
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# ML models
+*.joblib
+*.pkl
+
+# Geospatial files (VERY LARGE)
+*.shp
+*.shx
+*.dbf
+*.prj
+
+# Data
+*.csv
+*.parquet
+
