@@ -12,7 +12,7 @@
     <a href="#credits">Credits</a>
   </h4>
 </div>
----
+
 
 ##  Overview
 
@@ -149,7 +149,7 @@ Fill in your details and View crime risk predictions with detailed insights:
 
 ##  **Research Paper**
 
-A comprehensive explanation of the methodology, experiments, and findings is available in the accompanying research [paper](Paper/paper_crime_prediction.pdf).
+A comprehensive explanation of the methodology, experiments, and findings is available in the accompanying research [paper](paper_crime_prediction.pdf).
 
 ---
 
